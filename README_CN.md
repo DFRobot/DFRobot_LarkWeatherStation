@@ -7,9 +7,9 @@
 ![产品效果图片](./resources/images/EDG0157.png)
 
 
-## 产品链接（https://www.dfrobot.com.cn）
+## 产品链接（ https://www.dfrobot.com.cn ）
 
-    SKU：EDU0157
+SKU：[EDU0157](https://www.dfrobot.com.cn/goods-3770.html)
 
 ## 目录
 
