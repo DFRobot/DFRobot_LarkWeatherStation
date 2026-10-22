@@ -8,7 +8,7 @@ This is a driver library for the Lark Weather Station, which allows you to retri
 
 ## Product Link (https://www.dfrobot.com.cn)
 
-SKU: EDU0157
+SKU: [EDU0157](https://www.dfrobot.com/product-2785.html)
 
 ## Table of Contents
 
